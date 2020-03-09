@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"heroes":[{"id":"a1","name":"Iron Man"},{"id":"a2","name":"Captain America"},{"id":"a3","name":"Black Widow"},{"id":"a4","name":"Spider Man"},{"id":"a5","name":"Thor"},{"id":"a6","name":"Hulk"},{"id":"a7","name":"Ant Man"},{"id":"a8","name":"Doctor Strange"},{"id":"a9","name":"Hawk Eye"}]}
